@@ -1,52 +1,80 @@
-Effective date: 2025-11-5
+# Terms of Service — Odrat
 
-Introduction
-Welcome to Odrat. Odrat is provided for educational, research, and authorized testing purposes only. By downloading, installing, running, or otherwise using Odrat (the “Software”), you agree to these Terms of Service (“Terms”). If you do not agree, do not use the Software.
+## Effective date: 2025-11-05
 
-Important safety notice / prohibition of malicious use
-Odrat must not be used to attack, disrupt, delete, or otherwise harm any computer system, network, online service, or account unless you are the owner of the target system or you have written, verifiable authorization from the owner explicitly permitting the specific actions you intend to perform. Any use of Odrat to damage, interfere with, or gain unauthorized access to other people’s systems or data is strictly prohibited and may be a criminal offense. The developer does not condone or support illegal or malicious activity and will report abuse to the appropriate authorities when required.
+Important: Odrat is for educational, research, and authorized testing purposes only.
+Do NOT use it to damage or access systems you do not own or have explicit written permission to test.
 
-Authorized use & written permission requirement
+1. Introduction
+
+Welcome to Odrat. By downloading, installing, running, or otherwise using Odrat (the “Software”), you agree to these Terms of Service. If you do not agree, do not use the Software.
+
+2. Safety notice — prohibition of malicious use
+
+Odrat must not be used to attack, disrupt, delete, or otherwise harm any system, network, online service, or account unless you are the owner of the target system or you have written, verifiable authorization from the owner for the specific actions you will perform. Any malicious use is strictly prohibited and may be a criminal offense. The developer does not condone or support illegal activity and will cooperate with law enforcement.
+
+3. Authorized use & written permission requirement
+
 You may only use Odrat for:
-a) Your own systems that you own and control; or
-b) Systems where you have explicit written authorization from the owner for the exact testing you will perform.
-You agree to retain records of such authorization and to provide them to the developer or to authorities upon lawful request.
 
-License grant & restrictions
-Subject to these Terms, the developer grants you a nonexclusive, nontransferable, revocable license to use the Software for permitted purposes. You must not:
-• Use Odrat to perform unauthorized access, data destruction, or denial-of-service attacks.
-• Distribute, sell, or sublicense the Software for malicious use.
-• Remove or tamper with any copyright, trademark, or other proprietary notices.
+(a) systems you own and control; or
 
-Accounts & credentials
-If Odrat requires integration with third-party services (e.g., Discord APIs), you must comply with those services’ Terms of Service and Developer Policies. You are responsible for all activity that occurs under any accounts or credentials you use.
+(b) systems where you have explicit written authorization from the owner for the exact testing you will perform.
 
-Safety, testing environment, and backups
-Before running Odrat on any system, you must ensure proper backups and safeguards are in place. Testing destructive or disruptive actions in production or without backups is your responsibility and is strongly prohibited unless explicitly authorized by the system owner.
+You must retain records of such authorization and provide them upon lawful request.
 
-Reporting vulnerabilities and responsible disclosure
-If you discover a vulnerability in Odrat or in infrastructure while using it under authorized conditions, you agree to follow responsible disclosure: notify the affected party and the Odrat maintainer promptly, and refrain from public disclosure until the issue is responsibly addressed.
+4. License grant & restrictions
 
-Termination
-The developer may suspend or terminate your license and access if you breach these Terms or engage in prohibited activity. Termination does not limit other remedies available to the developer or third parties.
+Subject to these Terms, the developer grants a nonexclusive, nontransferable, revocable license to use the Software for permitted purposes. You must not:
 
-Disclaimer of warranties
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Odrat IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. THE DEVELOPER DOES NOT GUARANTEE THAT THE SOFTWARE IS FREE FROM BUGS OR THAT IT WILL MEET YOUR NEEDS.
+Use Odrat to perform unauthorized access, destruction, or denial-of-service attacks.
 
-Limitation of liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF YOUR USE OF THE SOFTWARE, INCLUDING LOSS OF DATA OR PROFITS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Nothing in this section limits liability for intentional wrongdoing or where such limitation is unenforceable under applicable law.
+Distribute, sell, or sublicense the Software for malicious use.
 
-Indemnity
-You agree to indemnify and hold harmless the developer and contributors from any claims, losses, damages, liabilities, and expenses (including reasonable attorneys’ fees) arising from your use of the Software in violation of these Terms.
+Remove or tamper with copyright or proprietary notices.
 
-Cooperation with law enforcement
-If requested by law enforcement or required by legal process, the developer may disclose account or usage information and cooperate with investigations.
+5. Accounts & third-party services
 
-Governing law and jurisdiction
-These Terms are governed by the laws of [choose jurisdiction, e.g., “Greece” or the state/country of the maintainer], without regard to conflicts of law rules. Disputes will be resolved in the competent courts of [city / region].
+If Odrat integrates with third-party services (e.g., Discord API), you must follow those services’ Terms. You are responsible for all activity under your accounts/credentials.
 
-Changes to Terms
-The developer may update these Terms from time to time. You will be notified of material changes and your continued use after notice constitutes acceptance.
+6. Safety, testing environment & backups
 
-Contact
-If you have questions about these Terms or need to send written authorization, contact: https://discord.com/users/1338601214677483632/
+Before running Odrat on any system, ensure backups and safeguards exist. Do not run destructive tests in production unless explicitly authorized by the system owner.
+
+7. Responsible disclosure
+
+If you discover a vulnerability while testing under authorization, follow responsible disclosure: notify the affected party and the Odrat maintainer, and avoid public disclosure until remediated.
+
+8. Termination
+
+The developer may suspend or terminate your license for breaches. Termination does not limit other legal remedies.
+
+9. Disclaimer of warranties
+
+Odrat is provided “AS IS”. To the maximum extent allowed by law, there are no warranties — express or implied.
+
+10. Limitation of liability
+
+To the maximum extent permitted, the developer will not be liable for indirect, incidental, special, consequential, or punitive damages arising from use of Odrat.
+
+11. Indemnity
+
+You agree to indemnify and hold harmless the developer and contributors from claims or damages arising from your misuse or breach of these Terms.
+
+12. Cooperation with law enforcement
+
+The developer will cooperate with lawful requests from authorities and may disclose account or usage information.
+
+13. Governing law & jurisdiction
+
+These Terms are governed by the laws of Greece. Disputes will be resolved in the competent courts of Greece.
+
+14. Changes to Terms
+
+The developer may update the Terms; continued use after notice is acceptance.
+
+15. Contact & written authorization
+
+Use only the following contacts for questions or to provide written authorization:
+`Discord: https://discord.com/users/1338601214677483632/`
+`Email:   dimzan@dimzan.xyz`
